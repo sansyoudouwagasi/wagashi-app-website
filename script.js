@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- スマホモックアップ スライドショー制御 ---
     // 時間・バッテリー等の上部、下部ナビなどをCSSでフレーム外に隠しつつ、画像を一定間隔でフェードさせます。
     window.addEventListener('load', () => {
-        const slides = document.querySelectorAll('.app-slideshow .slide');
+        const slides = document.querySelectorAll('.app-slideshow-body .slide');
         if (slides.length > 0) {
             let current = 0;
             setInterval(() => {
