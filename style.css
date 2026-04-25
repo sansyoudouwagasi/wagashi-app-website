@@ -1,16 +1,16 @@
 /* 落ち着いた色合いのテーマ (Calm & Elegant Earth Tones) */
 :root {
-    --bg-color: #f7f6f3; /* Warm off-white */
-    --text-main: #333631; /* Charcoal with subtle green hint */
-    --text-muted: #6b6b66;
-    --primary-color: #839788; /* Muted sage green */
-    --primary-hover: #728577;
-    --secondary-color: #e5e3df; /* Warm gray */
-    --secondary-hover: #d5cfc8;
-    --card-bg: rgba(255, 255, 255, 0.7);
-    --glass-border: rgba(255, 255, 255, 0.4);
-    --shadow: 0 8px 32px rgba(131, 151, 136, 0.08);
-    --shadow-hover: 0 12px 48px rgba(131, 151, 136, 0.15);
+    --bg-color: #fdfcf9; /* Warm cream/white */
+    --text-main: #383531; /* Dark charcoal/brown */
+    --text-muted: #736d65;
+    --primary-color: #5c6e54; /* Dark Matcha Green */
+    --primary-hover: #4d5c46;
+    --secondary-color: #ebd4bd; /* Soft biscuit */
+    --secondary-hover: #e0c2a3;
+    --card-bg: rgba(255, 255, 255, 0.8);
+    --glass-border: rgba(255, 255, 255, 0.5);
+    --shadow: 0 8px 32px rgba(92, 110, 84, 0.08);
+    --shadow-hover: 0 12px 48px rgba(92, 110, 84, 0.15);
     --border-radius: 16px;
     --transition: all 0.4s cubic-bezier(0.25, 1, 0.5, 1);
 }
