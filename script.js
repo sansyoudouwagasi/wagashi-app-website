@@ -1,3 +1,7 @@
+// Initialize Vercel Web Analytics
+import { inject } from './analytics.js';
+inject();
+
 document.addEventListener('DOMContentLoaded', () => {
     // スクロール時に要素をフェードインさせるIntersection Observerの設定
     const observerOptions = {
