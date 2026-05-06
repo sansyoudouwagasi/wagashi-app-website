@@ -1,0 +1,25 @@
+{
+  "name": "wagashi-app-website",
+  "version": "1.0.0",
+  "description": "Website for Wagashi nutrition calculator app",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve .",
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sansyoudouwagasi/wagashi-app-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sansyoudouwagasi/wagashi-app-website/issues"
+  },
+  "homepage": "https://github.com/sansyoudouwagasi/wagashi-app-website#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
